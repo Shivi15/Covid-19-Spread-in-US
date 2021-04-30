@@ -1,6 +1,6 @@
 # Covid-19-Spread-in-US
 
-Shift of Covid-19 hotspots during the course of the pandemic. Since covid-19 has impacted almost every part of the US, I'd been interested in time-based animations like racing bar charts.
+Shift of Covid-19 hotspots during the course of the pandemic. Since covid-19 has impacted almost every part of the US, I had been interested in time-based animations like racing bar charts.
 
 In this project, I've used two datasets: 
 
